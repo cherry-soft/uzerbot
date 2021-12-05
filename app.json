@@ -58,7 +58,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "O'zgartirmang. Bu manbadan dastur yuklab o'rnatilinadi",
-      "value": "https://github.com/cherry-soft/uzcatuserbot",
+      "value": "https://github.com/cherry-soft/uzbekcatuserbot",
       "required": false
     }
   },
