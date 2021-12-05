@@ -1,7 +1,7 @@
 # Uzbek CatUserBot
 
 O'zbek tilida telegram uchun userbot.
-Telegramda guruh va shaxsiy profil boshqaruvini boshqarish va ko'ngilochar maqsadlar uchun.
+Telegramda guruh va shaxsiy profil boshqaruvini osonlashtirish va ko'ngilochar maqsadlar uchun.
 Tuzish uchun @sandy1709/catuserbot dan foydalanildi.
 
 ## O'rnatish
