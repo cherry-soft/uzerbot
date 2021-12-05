@@ -1,16 +1,15 @@
-# UzCatuserbot-heroku
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMr-confused%2Fnekopack&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+# Uzbek CatUserBot
 
-Bu herokuga o'rnatish uchun tayyorlagan bo'lim holos
-Bot asosiy manbasi [bu yerda](https://github.com/cherry-soft/uzcatuserbot)
+O'zbek tilida telegram uchun userbot.
+Telegramda guruh va shaxsiy profil boshqaruvini boshqarish va ko'ngilochar maqsadlar uchun.
+Tuzish uchun @sandy1709/catuserbot dan foydalanildi.
 
 ## O'rnatish
-
-Bu va [asosiy manba](https://github.com/sandy1709/catuserbot)ni fork qiling va Deploy Heroku ustiga bosing
+Heroku.com saytidan avval ro'yxatdan o'ting va kiring. So'ng bu yerdan pastdagi Deploy to Heroku ustiga bosing.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-## Mualliflar
-   - [@midnightmadwalk](https://t.me/midnightmadwalk)
-   - [@DeletedUser420](https://t.me/DeletedUser420)
-   - [@Otajonov](https://t.me/mr_alie_n)
+
+## Mualliflar bilan bog'lanish
+   - [E. Shukurullayev](https://t.me/dcompiler)
+   - [R. Otajonov](https://t.me/mr_alie_n)
