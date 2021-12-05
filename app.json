@@ -1,64 +1,64 @@
 {
-  "name": "Catuserbot",
-  "description": "A simple Telegram userbot based on Telethon . Maintained by Sandeep ",
+  "name": "Uzbek Catuserbot",
+  "description": "Telethon kutubxonasiga asoslangan o'zbekcha Telegram UserBot",
   "logo": "https://telegra.ph/file/3d60313110c58684b31ea.jpg",
   "keywords": [
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/sandy1709/catuserbot/",
+  "repository": "https://github.com/cherry-soft/uzcatuserbot/",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
     "ALIVE_NAME": {
-      "description": "give your name",
+      "description": "Ism yoki taxallusingiz",
       "value": ""
     },
     "APP_ID": {
-      "description": "Get this value from my.telegram.org! Please do not steal",
+      "description": "Buni my.telegram.org saytidan olasiz",
       "value": ""
     },
     "API_HASH": {
-      "description": "Get this value from my.telegram.org! Please do not steal",
+      "description": "Bunisini ham my.telegram.org saytidan olasiz",
       "value": ""
     },
     "STRING_SESSION": {
-      "description": "Get this value by running python3 telesetup.py locally or https://generatestringsession.sandeep1709.repl.run",
+      "description": "Buni https://catuserbot.otajonov.repl.run saytidan olasiz",
       "value": ""
     },
     "TG_BOT_TOKEN": {
-      "description": "Needed for inline buttons maker. Make a bot at http://telegram.dog/BotFather and get the token of your bot.Worth it. Get it.",
+      "description": "Telegramda BotFatherdan olasiz. Bot sozlamalaridan inline mode ni yoqib qo'yishni unutmang",
       "value": ""
     },
     "COMMAND_HAND_LER": {
-      "description": "Set this one with only one the symbol to use it before your command to run like . , ' `",
+      "description": "Komandalariz shu belgi bilan boshlanadi. Istasangiz o'zgartiring. Birlamchi . belgilangan",
       "value": ".",
       "required": false
     },
     "ENV": {
-      "description": "Setting this to ANYTHING will enable heroku.",
+      "description": "ANYTHING holaticha qolsin",
       "value": "ANYTHING",
       "required": false
     },
     "HEROKU_API_KEY": {
-      "description": "Required for updating the bot and other stuff get it from https://dashboard.heroku.com/account",
+      "description": "https://dashboard.heroku.com/account sahifasida oxirrog'ida topasiz",
       "value": "",
       "required": false
     },
     "HEROKU_APP_NAME": {
-      "description": "YOUR app name ",
+      "description": "Birinchidagi app name ga kiritganizni qayta yozing ",
       "value": "",
       "required": false
     },
     "TZ": {
-      "description": "Required for Correct Time on autopic/get time. Know your timezone from http://www.timezoneconverter.com/cgi-bin/findzone.tzc",
-      "value": "Asia/Kolkata",
+      "description": "Vaqt mintaqasi. O'zbekistonda bo'lsangiz Asia/Tashkent holicha qolaversin",
+      "value": "Asia/Tashkent",
       "required": false
     },
     "UPSTREAM_REPO": {
-      "description": "Use either goodcat or badcat .if you need custom deploy then type your git repo link",
-      "value": "goodcat",
+      "description": "O'zgartirmang. Bu manbadan dastur yuklab o'rnatilinadi",
+      "value": "https://github.com/cherry-soft/uzcatuserbot",
       "required": false
     }
   },
