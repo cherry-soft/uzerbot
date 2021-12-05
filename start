@@ -3,10 +3,10 @@
 _get_ziplink () {
     local regex
     regex='(https?)://github.com/.+/.+'
-    if [[ $UPSTREAM_REPO == "goodcat" ]]
+    if [[ $UPSTREAM_REPO == "uzbek" ]]
     then
         echo "aHR0cHM6Ly9naXRodWIuY29tL3NhbmR5MTcwOS9jYXR1c2VyYm90L2FyY2hpdmUvbWFzdGVyLnppcA==" | base64 -d
-    elif [[ $UPSTREAM_REPO == "badcat" ]]
+    elif [[ $UPSTREAM_REPO == "english" ]]
     then
         echo "aHR0cHM6Ly9naXRodWIuY29tL2ppc2FuMDkvY2F0dXNlcmJvdC9hcmNoaXZlL21hc3Rlci56aXA=" | base64 -d
     elif [[ $UPSTREAM_REPO =~ $regex ]]
@@ -50,7 +50,7 @@ _run_catpack_git() {
     $(_run_python_code 'from git import Repo
 import sys
 
-OFFICIAL_UPSTREAM_REPO = "https://github.com/Mr-confused/nekopack"
+OFFICIAL_UPSTREAM_REPO = "https://github.com/cherry-soft/uzcatuserbot-heroku"
 ACTIVE_BRANCH_NAME = "master"
 
 repo = Repo.init()
