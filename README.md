@@ -10,7 +10,7 @@ Bu va [asosiy manba](https://github.com/sandy1709/catuserbot)ni fork qiling va D
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-## credits
+## Mualliflar
    - [@midnightmadwalk](https://t.me/midnightmadwalk)
    - [@DeletedUser420](https://t.me/DeletedUser420)
    - [@Otajonov](https://t.me/mr_alie_n)
