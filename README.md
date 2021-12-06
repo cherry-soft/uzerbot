@@ -11,11 +11,15 @@ Heroku.com saytidan avval ro'yxatdan o'ting va kiring. So'ng bu yerdan pastdagi 
 
 
 ## Qo'llab-quvvatlash
-   <a href="https://t.me/uzbekuserbot"><img src="https://img.shields.io/badge/Rasmiy%20Kanal%3F-Bor-green?&style=flat-square?&logo=telegram" width=220px></a></p>
-   <a href="https://t.me/uzbekuserbot_support"><img src="https://img.shields.io/badge/Rasmiy%20Guruh%3F-Bor-green?&style=flat-square?&logo=telegram" width=220px></a></p>
 
+   <a href="https://t.me/uzerbot"><img src="https://img.shields.io/badge/Rasmiy%20Kanal%3F-Bor-green?&style=flat-square?&logo=telegram" width=220px></a></p>
+Kanal orqali Botni qanday o'rnatish, foydali komandalar haqida ma'lumot va yangilanishlar haqida bildirishnomalar olib turishingiz mumkin
+
+
+   <a href="https://t.me/uzbekuserbot_support"><img src="https://img.shields.io/badge/Rasmiy%20Guruh%3F-Bor-green?&style=flat-square?&logo=telegram" width=220px></a></p>
+Guruhda Botni o'rnatish va ishlatish mobaynida duch kelayotgan muammolaringizga jamoadan yordam olishingiz va o'z fikr va tavfsiyalaringizni qoldirishingiz mumkin
 
 ## Manbalar
 
-   - [Telethon](https://github.com)
-   - [CatUserBot](https://github.com)
+   - [Telethon](https://github.com/LonamiWebs/Telethon)
+   - [CatUserBot](https://github.com/sandy1709/catuserbot)
