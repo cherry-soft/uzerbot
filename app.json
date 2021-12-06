@@ -1,6 +1,6 @@
 {
-  "name": "Uzbek Catuserbot",
-  "description": "Telethon kutubxonasiga asoslangan o'zbekcha Telegram UserBot",
+  "name": "Uzerbot ™",
+  "description": "Sodda va mukammal o'zbekcha Telegram UserBot",
   "logo": "https://telegra.ph/file/3d60313110c58684b31ea.jpg",
   "keywords": [
     "plugin",
@@ -56,7 +56,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "O'zgartirmang. Bu manbadan dastur yuklab o'rnatilinadi",
-      "value": "https://github.com/cherry-soft/uzbekcatuserbot",
+      "value": "https://github.com/cherry-soft/uzerbot-core",
       "required": false
     }
   },
