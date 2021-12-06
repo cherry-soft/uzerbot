@@ -16,19 +16,19 @@
       "value": ""
     },
     "APP_ID": {
-      "description": "Bunisini ham my.telegram.org saytidan olasiz. APP_ID degan raqam.",
+      "description": "Bunisini ham my.telegram.org saytidan olasiz.",
       "value": ""
     },
     "API_HASH": {
-      "description": "Buni olish uchun my.telegra.org saytiga Telegram akkauntiz bilan kiring va API Development Tools degan joyga o'tib, kerakli maydonlarni to'ldiring. Tushunmasangiz @uzbekuserbot kanalida qo'llanmalar bor",
+      "description": "Buni my.telegram.org saytidan olasiz. Tushunmasangiz @uzbekuserbot kanalida qo'llanmalar bor",
       "value": ""
     },
     "STRING_SESSION": {
-      "description": "Buni https://catuserbot.otajonov.repl.run saytidan olasiz. Tushunmasangiz @uzbekuserbot kanalida qo'llanmalar bor.",
+      "description": "Buni catuserbot.otajonov.repl.run saytidan olasiz. Tushunmasangiz @uzbekuserbot kanalida qo'llanmalar bor.",
       "value": ""
     },
     "TG_BOT_TOKEN": {
-      "description": "Telegramda BotFatherdan olasiz. Bot sozlamalaridan inline mode ni yoqib qo'yishni unutmang. Tushunmasangiz @uzbekuserbot kanalida qo'llanmalar bor",
+      "description": "Telegramda BotFatherdan olasiz. Bot sozlamalaridan inline mode ni yoqib qo'yishni unutmang",
       "value": ""
     },
     "COMMAND_HAND_LER": {
@@ -42,12 +42,12 @@
       "required": false
     },
     "HEROKU_API_KEY": {
-      "description": "dashboard.heroku.com/account sahifasida oxirrog'ida topasiz. Reveal ni bossangiz yashirilgan narsa ko'rinadi o'shani ko'chirib bu yerga joylaysiz",
-      "value": "",
+      "description": "dashboard.heroku.com/account sahifasida oxirrog'ida topasiz",
+      "value": ""
     },
     "HEROKU_APP_NAME": {
       "description": "Birinchidagi app name ga kiritganizni to'g'ri qilib qayta yozing ",
-      "value": "",
+      "value": ""
     },
     "TZ": {
       "description": "Vaqt mintaqasi. O'zbekistonda bo'lsangiz Asia/Tashkent holicha qolsin",
