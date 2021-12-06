@@ -16,23 +16,23 @@
       "value": ""
     },
     "APP_ID": {
-      "description": "Buni my.telegram.org saytidan olasiz",
+      "description": "Bunisini ham my.telegram.org saytidan olasiz. APP_ID degan raqam.",
       "value": ""
     },
     "API_HASH": {
-      "description": "Bunisini ham my.telegram.org saytidan olasiz",
+      "description": "Buni olish uchun my.telegra.org saytiga Telegram akkauntiz bilan kiring va API Development Tools degan joyga o'tib, kerakli maydonlarni to'ldiring. Tushunmasangiz @uzbekuserbot kanalida qo'llanmalar bor",
       "value": ""
     },
     "STRING_SESSION": {
-      "description": "Buni https://catuserbot.otajonov.repl.run saytidan olasiz",
+      "description": "Buni https://catuserbot.otajonov.repl.run saytidan olasiz. Tushunmasangiz @uzbekuserbot kanalida qo'llanmalar bor.",
       "value": ""
     },
     "TG_BOT_TOKEN": {
-      "description": "Telegramda BotFatherdan olasiz. Bot sozlamalaridan inline mode ni yoqib qo'yishni unutmang",
+      "description": "Telegramda BotFatherdan olasiz. Bot sozlamalaridan inline mode ni yoqib qo'yishni unutmang. Tushunmasangiz @uzbekuserbot kanalida qo'llanmalar bor",
       "value": ""
     },
     "COMMAND_HAND_LER": {
-      "description": "Komandalariz shu belgi bilan boshlanadi. Istasangiz o'zgartiring. Birlamchi . belgilangan",
+      "description": "Komandalariz shu belgi bilan boshlanadi. Istasangiz o'zgartiring. Birlamchi . (Nuqta) belgilangan",
       "value": ".",
       "required": false
     },
@@ -42,17 +42,15 @@
       "required": false
     },
     "HEROKU_API_KEY": {
-      "description": "https://dashboard.heroku.com/account sahifasida oxirrog'ida topasiz",
+      "description": "dashboard.heroku.com/account sahifasida oxirrog'ida topasiz. Reveal ni bossangiz yashirilgan narsa ko'rinadi o'shani ko'chirib bu yerga joylaysiz",
       "value": "",
-      "required": false
     },
     "HEROKU_APP_NAME": {
-      "description": "Birinchidagi app name ga kiritganizni qayta yozing ",
+      "description": "Birinchidagi app name ga kiritganizni to'g'ri qilib qayta yozing ",
       "value": "",
-      "required": false
     },
     "TZ": {
-      "description": "Vaqt mintaqasi. O'zbekistonda bo'lsangiz Asia/Tashkent holicha qolaversin",
+      "description": "Vaqt mintaqasi. O'zbekistonda bo'lsangiz Asia/Tashkent holicha qolsin",
       "value": "Asia/Tashkent",
       "required": false
     },
