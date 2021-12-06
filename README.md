@@ -1,8 +1,8 @@
-# Uzbek CatUserBot
+# Uzerbot ™
 
-O'zbek tilida telegram uchun userbot.
+O'zbek tilida sodda va mukammal telegram userbot.
 Telegramda guruh va shaxsiy profil boshqaruvini osonlashtirish va ko'ngilochar maqsadlar uchun.
-Tuzish uchun @sandy1709/catuserbot dan foydalanildi.
+
 
 ## O'rnatish
 Heroku.com saytidan avval ro'yxatdan o'ting va kiring. So'ng bu yerdan pastdagi Deploy to Heroku ustiga bosing.
@@ -10,6 +10,7 @@ Heroku.com saytidan avval ro'yxatdan o'ting va kiring. So'ng bu yerdan pastdagi 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 
-## Mualliflar bilan bog'lanish
-   - [E. Shukurullayev](https://t.me/dcompiler)
-   - [R. Otajonov](https://t.me/mr_alie_n)
+## Manbalar
+
+   - [Telethon](https://github.com)
+   - [CatUserBot](https://github.com)
